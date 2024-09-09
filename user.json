@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Wini",
+    "last_name": "Gheeorghie",
+    "email": "wgheeorghie0@time.com",
+    "gender": "Female",
+    "salary": 10000
+  },
+  {
+    "id": 2,
+    "first_name": "Perle",
+    "last_name": "Copello",
+    "email": "pcopello1@quantcast.com",
+    "gender": "Female",
+    "salary": 12000
+  },
+  {
+    "id": 3,
+    "first_name": "Thadeus",
+    "last_name": "Martinovsky",
+    "email": "tmartinovsky2@gnu.org",
+    "gender": "Male",
+    "salary": 14000
+  },
+  {
+    "id": 4,
+    "first_name": "Britta",
+    "last_name": "Clinton",
+    "email": "bclinton3@clickbank.net",
+    "gender": "Female",
+    "salary": 15000
+  },
+  {
+    "id": 5,
+    "first_name": "Thomasa",
+    "last_name": "Mitton",
+    "email": "tmitton4@techcrunch.com",
+    "gender": "Female",
+    "salary": 20000
+  },
+  {
+    "id": 6,
+    "first_name": "Jazmin",
+    "last_name": "Dugmore",
+    "email": "jdugmore5@google.cn",
+    "gender": "Female",
+    "salary": 21000
+  },
+  {
+    "id": 7,
+    "first_name": "Filberto",
+    "last_name": "Van der Mark",
+    "email": "fvandermark6@simplemachines.org",
+    "gender": "Male",
+    "salary": 24000
+  },
+  {
+    "id": 8,
+    "first_name": "Lonna",
+    "last_name": "Pleuman",
+    "email": "lpleuman7@npr.org",
+    "gender": "Female",
+    "salary": 22000
+  },
+  {
+    "id": 9,
+    "first_name": "Sheelah",
+    "last_name": "Agass",
+    "email": "sagass8@vimeo.com",
+    "gender": "Female",
+    "salary": 13000
+  },
+  {
+    "id": 10,
+    "first_name": "Mable",
+    "last_name": "Matthai",
+    "email": "mmatthai9@behance.net",
+    "gender": "Female",
+    "salary": 21000
+  }
+]
